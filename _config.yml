@@ -37,3 +37,5 @@ JB :
 
   sharing :
     provider : false
+
+theme: jekyll-theme-cayman
